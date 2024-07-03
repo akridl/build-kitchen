@@ -24,6 +24,7 @@
   <groupId>org.jboss.pnc.buildkitchen</groupId>
   <artifactId>build-kitchen</artifactId>
   <version>1.0.0-SNAPSHOT</version>
+  <!-- Uuuuh, test -->
   <inceptionYear>2023</inceptionYear>
   <properties>
     <compiler-plugin.version>3.12.1</compiler-plugin.version>
